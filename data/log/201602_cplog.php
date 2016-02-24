@@ -1,0 +1,17 @@
+<?PHP exit;?>	1456315481	admin	1	::1		GET={}; POST={};
+<?PHP exit;?>	1456315484	admin	1	::1	index	GET={}; POST={};
+<?PHP exit;?>	1456315497	admin	1	::1	misc	GET={operation=custommenu; }; POST={};
+<?PHP exit;?>	1456315499	admin	1	::1	setting	GET={operation=basic; }; POST={};
+<?PHP exit;?>	1456315503	admin	1	::1	nav	GET={}; POST={};
+<?PHP exit;?>	1456315505	admin	1	::1	moderate	GET={}; POST={};
+<?PHP exit;?>	1456315506	admin	1	::1	members	GET={operation=search; }; POST={};
+<?PHP exit;?>	1456315507	admin	1	::1	portalcategory	GET={}; POST={};
+<?PHP exit;?>	1456315508	admin	1	::1	forums	GET={}; POST={};
+<?PHP exit;?>	1456315508	admin	1	::1	group	GET={operation=setting; }; POST={};
+<?PHP exit;?>	1456315509	admin	1	::1	setting	GET={operation=sec; }; POST={};
+<?PHP exit;?>	1456315509	admin	1	::1	setting	GET={operation=sec; }; POST={};
+<?PHP exit;?>	1456315510	admin	1	::1	announce	GET={}; POST={};
+<?PHP exit;?>	1456315511	admin	1	::1	plugins	GET={}; POST={};
+<?PHP exit;?>	1456315511	admin	1	::1	tools	GET={operation=updatecache; }; POST={};
+<?PHP exit;?>	1456315511	admin	1	::1	founder	GET={operation=perm; }; POST={};
+<?PHP exit;?>	1456315516	admin	1	::1	founder	GET={operation=perm; }; POST={};
